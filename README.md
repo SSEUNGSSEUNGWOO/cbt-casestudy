@@ -1,10 +1,12 @@
-# kbrain-cert — 작업형 온라인 CBT 사례
+# 인증평가 CBT — 사례
 
 AI 챔피언 인증평가(행안부 · NIA)용 온라인 CBT. 문항 관리 · 응시자 입장 · 실시간 화상 감독 · 감독관 모니터 · 수동 채점 · 답안 일괄 export까지 시험 운영 한 사이클을 담당한다. 2026년 7월부터 실시험에 사용.
 
 ![status](https://img.shields.io/badge/status-production-16a34a)
 ![type](https://img.shields.io/badge/type-case%20study-475569)
 ![stack](https://img.shields.io/badge/Next.js%2016-Supabase%20·%20Agora-000000)
+
+사내 코드네임은 `kbrain-cert`. AI 챔피언 인증평가에 쓰는 사내 시험 시스템이다.
 
 > **소스는 회사 자산이라 비공개입니다.** 이 저장소는 무엇을 · 왜 · 어떻게 만들었는지 기록한 사례 문서이며, 실행 가능한 코드는 포함하지 않습니다. 코드는 면접 등에서 화면 공유로 설명할 수 있습니다.
 

@@ -6,7 +6,7 @@ AI 챔피언 인증평가(행안부 · NIA)용 온라인 CBT. 문항 관리 · �
 ![type](https://img.shields.io/badge/type-case%20study-475569)
 ![stack](https://img.shields.io/badge/Next.js%2016-Supabase%20·%20Agora-000000)
 
-사내 코드네임은 `kbrain-cert`. AI 챔피언 인증평가에 쓰는 사내 시험 시스템이다.
+사내 코드네임은 `kbrain-cert`. 외부 응시자(공무원)를 대상으로 직접 구축한 시험 시스템이다.
 
 > **소스는 회사 자산이라 비공개입니다.** 이 저장소는 무엇을 · 왜 · 어떻게 만들었는지 기록한 사례 문서이며, 실행 가능한 코드는 포함하지 않습니다. 코드는 면접 등에서 화면 공유로 설명할 수 있습니다.
 
